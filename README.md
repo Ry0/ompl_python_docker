@@ -1,1 +1,3 @@
 # OMPL Python Docker
+DockerfileではOMPLをpyenvで作成したPython環境でも使用できるようにしている。
+仮想環境名はomplとしている。今後システムに入っているPythonバージョンとは異なるバージョンでOMPLを使いたくなったときの対策。※ /usr/bin/python3がシステムのPython。

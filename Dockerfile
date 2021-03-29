@@ -1,5 +1,4 @@
-# どのイメージを基にするか
-FROM ubuntu
+FROM ubuntu:20.04
 
 ENV PYTHON_VER="3.8"
 ENV PYTHON_FULL_VER="3.8.5"
